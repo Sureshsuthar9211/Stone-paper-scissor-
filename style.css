@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    text-align: center;
+}
+
+body {
+    background-color: #fff8dc;
+}
+
+h1 {
+    padding: 10px;
+    justify-content: center;
+    text-align: center;
+    background-color: #8B4513;
+    /* Fresh green */
+    color: white;
+}
+
+#GameCount {
+    color: red;
+    padding: 10px;
+    text-align: start;
+}
+
+.choices {
+    display: flex;
+    gap: 40px;
+    margin: 50px;
+}
+
+.choice:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.name {
+    display: flex;
+    gap: 50px;
+}
+
+.score-bord {
+    display: flex;
+    gap: 50px;
+    margin: 30px;
+}
+
+#user-Score,
+#comp-Score {
+    font-size: 70px;
+}
+
+.msg {
+    margin: 30px, 0px, 30px, 0px;
+    padding: 10px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 30px;
+    background-color: blueviolet;
+    display: inline-block;
+    border-radius: 10px;
+}
