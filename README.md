@@ -16,15 +16,16 @@ The player selects Stone, Paper, or Scissors, and the computer randomly generate
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Structure of the game
-- **CSS3** – Styling and layout
-- **JavaScript** – Game logic and DOM manipulation
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 📂 Project Structure
 
 ```text
 Stone-Paper-Scissors/
 │
+├── img
 ├── index.html
 ├── style.css
 ├── script.js
@@ -71,7 +72,7 @@ That's it! 🎮
 
 Add a screenshot of your game here:
 
-![Project Preview](project-preview.png)
+![Project Preview](./img/project-preview.png)
 
 ## 🔮 Future Improvements
 
